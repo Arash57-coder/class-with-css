@@ -1,0 +1,44 @@
+.text-left{
+    text-align: left;
+color: limegreen;
+}
+.text-right{
+    text-align: right;
+color: red;
+}
+.text-center{
+    text-align: center;
+   background-color: white;
+ 
+}
+.font-lg{
+    font-size: 32px;
+    text-align: center;
+    background-color: olive;
+}
+.font-md{
+    font-size: 16px;
+    text-align: left;
+    background-color: seagreen;
+
+}
+.font-sm{
+    font-size: 13.6px;
+    text-align: right;
+    background-color: teal;
+}
+.fw-bold{
+    font-weight: 700;
+    text-align: center;
+ 
+}
+.fw-semibold{
+    font-weight: 600;
+    text-align: justify;
+
+}
+.fw-normal{
+    font-weight: 400;
+    text-align: center;
+    
+}
